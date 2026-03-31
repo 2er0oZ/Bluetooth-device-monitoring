@@ -1,6 +1,6 @@
 # Bluetooth-device-monitoring
 ***请确保设备拥有心率广播功能***
-**请确保运行本软件的设备上拥有蓝牙功能***
+**请确保运行本软件的设备上拥有蓝牙功能**
 搭配[Smart_Wearable_Warning_Platform](https://github.com/2er0oZ/Smart_Wearable_Warning_Platform)使用
 
 ## 使用说明
