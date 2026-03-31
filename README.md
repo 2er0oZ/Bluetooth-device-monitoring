@@ -1,0 +1,2 @@
+# Bluetooth-device-monitoring
+搭配Smart_Wearable_Warning_Platform使用
